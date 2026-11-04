@@ -75,7 +75,7 @@ Clustering/
 1. Acceder al repositorio de GitHub.
 2. Ingresar a la carpeta `cuadernos`.
 3. Seleccionar el ejercicio que se desea ejecutar.
-4. Abrir el cuaderno en Google Colab o Jupyter Notebook.
+4. Abrir el cuaderno en Google Colab.
 5. Ejecutar las celdas en orden para reproducir el análisis, los agrupamientos, las métricas y las visualizaciones.
 
 Los conjuntos de datos Wine e Iris se obtienen directamente desde Scikit-learn, mientras que Make Moons se genera mediante la misma biblioteca. Por esta razón, no es necesario descargar archivos de datos adicionales.
